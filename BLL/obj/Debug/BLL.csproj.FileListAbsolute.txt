@@ -1,0 +1,14 @@
+C:\Users\Piyash\source\repos\Heaven\BLL\bin\Debug\BLL.dll
+C:\Users\Piyash\source\repos\Heaven\BLL\bin\Debug\BLL.pdb
+C:\Users\Piyash\source\repos\Heaven\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Piyash\source\repos\Heaven\BLL\bin\Debug\DAL.dll
+C:\Users\Piyash\source\repos\Heaven\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Piyash\source\repos\Heaven\BLL\bin\Debug\DAL.pdb
+C:\Users\Piyash\source\repos\Heaven\BLL\bin\Debug\DAL.dll.config
+C:\Users\Piyash\source\repos\Heaven\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Piyash\source\repos\Heaven\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Piyash\source\repos\Heaven\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Piyash\source\repos\Heaven\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Piyash\source\repos\Heaven\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Piyash\source\repos\Heaven\BLL\obj\Debug\BLL.dll
+C:\Users\Piyash\source\repos\Heaven\BLL\obj\Debug\BLL.pdb
